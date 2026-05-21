@@ -1,0 +1,1 @@
+This is a program made on Batchscripting in order to enhance the UX of any window's user. You have to add the bat file into your home screen and just press enter and it works(after you hover over and click the bat file). You can change the start command and add to the command the URL and the browser executable of your choosing.
